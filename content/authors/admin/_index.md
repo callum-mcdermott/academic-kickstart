@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "callumjmcdermott@gmail.com".
+  link: 'callumjmcdermott@gmail.com'  # For a direct email link, use "callumjmcdermott@gmail.com".
 - icon: github
   icon_pack: fab
   link: https://github.com/callum-mcdermott
