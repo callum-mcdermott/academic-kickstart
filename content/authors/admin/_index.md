@@ -58,4 +58,4 @@ user_groups:
 - Visitors
 ---
 
-Callum McDermott is a student of history at Carleton University. His research interests Diplomatic history, digital management. In his spare time he enjoys reading, watching sports and playing video games
+Callum McDermott is a student of history at Carleton University. His research interests Diplomatic history, digital management. In his spare time he enjoys reading, watching sports and playing video games. He is currently working on creating a database based on the index cards collected by the Cataraqui Archaeological Research Foundation from Fort Frontenac. 
