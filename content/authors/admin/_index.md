@@ -42,20 +42,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/callum-mcdermott
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "callumjmcdermott@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
 ---
 
 Callum McDermott is a student of history at Carleton University. His research interests Diplomatic history, digital management. In his spare time he enjoys reading, watching sports and playing video games. He is currently working on creating a database based on the index cards collected by the Cataraqui Archaeological Research Foundation from Fort Frontenac. 
